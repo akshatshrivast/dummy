@@ -1,4 +1,4 @@
 # dummy
 Hi, This is my first repository
 <br>
-Author - Akshat Shrivastava
+Author - Akshat Shrivastava(coder)
